@@ -9,7 +9,7 @@ Here are a few interesting ones:
 
 
 #### About me : 
-- 🔒 I finished my Bachelor's degree in cybersecurity in September 2023.
+- 🔒 I finished my Bachelor's degree in cybersecurity in September 2023
 - 🔭 I’m currently working on ...
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/enzo-allemano/)
-
+- 🌎 My native language is French, but I speak fluent English
