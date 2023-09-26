@@ -12,6 +12,6 @@ Perhaps professional or private projects will be added to my GitHub account.
 
 #### About me : 
 - 🔒 I finished my Bachelor's degree in cybersecurity in September 2023
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working in a SOC as tier 1 analyst
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/enzo-allemano/)
 - 🌎 My native language is French, but I speak fluent English
